@@ -1,0 +1,35 @@
+customer_id,name,age,city,signup_date,salary,is_active,email
+1,Aarav Sharma,28,Mumbai,2023-01-15,"₹55,000",Yes,aarav.sharma@example.com
+2,Priya Patil,34,Pune,15/02/2023,"₹72,500",yes,priya.patil@example.com
+3,Rohan Deshmukh,45,Nashik,2023-03-10,"₹75,000",TRUE,rohan.d@example.com
+4,Sneha Kulkarni,N/A,Pune,10 Mar 2023,"₹48,000",No,sneha.k@example.com
+5,Vikram Joshi,31,mumbai,March 22 2023,"₹65,000",Y,vikram.j@example.com
+6,Anjali Rao,29,MUMBAI ,2023-04-02,"₹58,000",yes,anjali.rao@example.com
+7,Karan Mehta,999,Nashik,2023-04-18,"₹61,000",no,karan.m@example.com
+8,Neha Gupta,27,Nagpur,2023-05-05,-,Yes,neha.gupta@example.com
+9,Aditya Singh,38,Pune,05/06/2023,"₹80,000",Yes,
+10,Pooja Iyer,41,Nashik,2023-06-21,"₹9,999,999",No,pooja.iyer@example.com
+11,Rahul Nair,abc,Mumbai,2023-07-09,"₹52,000",yes,rahul.nair@example.com
+12,Divya Menon,33,Pune,2023-07-30,"₹67,000",TRUE,divya.m@example.com
+13,Sanjay Pawar,36,nagpur,2023-08-14,"₹59,000",null,sanjay.p@example.com
+14,Meera Bhat,26,Nashik,32/13/2023,"₹44,000",No,meera.bhat@example.com
+1,Aarav Sharma,28,Mumbai,2023-01-15,"₹55,000",Yes,aarav.sharma@example.com
+16,Priya Patel,34,Pune,15/02/2023,"₹72,500",yes,priya.patil@example.com
+17,Ishaan Reddy,30,Pune,2023-09-12,"₹63,000",Yes,ishaan.r@example.com
+18,Kavya Shetty,25,Mumbai,2023-09-25,"₹50,000",No,kavya.s@example.com
+19,Manish Tiwari,48,Nashik,2023-10-03,"₹90,000",yes,manish.t@example.com
+20,Ritu Saxena,?,Nagpur,2023-10-19,"₹56,000",TRUE,ritu.s@example.com
+21,Harsh Vora,32,Pune,2023-11-07,"₹62,000",No,harsh.v@example.com
+22,Tanvi Chavan,29,Mumbai,07/11/2023,"₹57,000",Yes,tanvi.c@example.com
+23,Omkar Jadhav,-5,Nashik,2023-11-28,"₹49,000",no,omkar.j@example.com
+24,Shruti Bose,35,pune,2023-12-06,"₹71,000",Yes,shruti.b@example.com
+25,Yash Malhotra,40,Mumbai,2023-12-20,"₹85,000",Yes,yash.m@example.com
+26,Aisha Khan,28,Nagpur,2024-01-08,"₹54,000",,aisha.k@example.com
+27,Devansh Kapoor,37,Nashik,2024-01-22,"₹68,000",No,devansh.k@example.com
+28,Nisha Pillai,31,Pune,2024-02-05,"₹60,000",Yes,nisha.p@example.com
+29,Gaurav Bhatt,43,Mumbai,2024-02-19,"₹78,000",Yes,gaurav.b@example.com
+30,Swati Dixit,N/A,Nagpur,2024-03-04,"₹53,000",yes,swati.d@example.com
+31,Rajesh Kumar,39,Nashik,2024-03-18,"₹66,000",No,rajesh.k@example.com
+32,Lata Naik,52,Pune,2024-04-01,"₹88,000",Yes,lata.n@example.com
+33,,,,,,,
+34,Varun Chopra,34,Mumbai,2024-04-15,"₹64,000",Yes,varun.c@example.com
