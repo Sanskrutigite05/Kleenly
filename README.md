@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kleenly
 
 *A CSV cleaner.*
@@ -86,3 +87,6 @@ tests/                 test_cleaner.py (rules), test_api.py (endpoints)
 - Day-first dates (`05/06/2023` = 5 June) are the default. Turn it off for US-style dates.
 - `1.200` is read as the decimal 1.2, not twelve hundred. European-style thousands separators are not detected.
 - Row numbers in the log assume the header is row 1. Malformed lines that were skipped can shift them.
+=======
+# Kleenly
+>>>>>>> a90821c799228f45c3996975e873b811ab7c49d7
